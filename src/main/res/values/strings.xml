@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DonorLink</string>
+    <string name="donorlink">DonorLink</string>
+    <string name="your_timely_lifeline">your timely lifeline</string>
+    <string name="welcome">Hello, welcome to this application</string>
+    <string name="description">What best describes you</string>
+    <string name="dReg">Donor Registration</string>
+    <string name="rReg">Recipient Registration</string>
+    <string name="aReg">Already registered? Sign In</string>
+    <string-array name="bloodgroups">
+        <item>Select your blood group</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>0-</item>
+    </string-array>
+</resources>
